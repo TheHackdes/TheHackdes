@@ -25,7 +25,7 @@ The keyboard layout is derived from Bépo and optimized for Arteus-format keyboa
 ## 💬 Contact Me
 
 - **Twitter:** [@TheHackdes](https://twitter.com/TheHackdes)
-- **Email:** [rick@rick-morty.fr]
+- **Email:** rick@rick-morty.fr
 
 Feel free to explore my projects above and reach out for any collaboration or questions!
 
