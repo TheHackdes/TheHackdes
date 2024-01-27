@@ -16,7 +16,6 @@ Tool for IT Teacher (Deploy lab container with SSH for your Students)
 
 ### Projet 3: [0x03 - OptimoAtreus](https://github.com/TheHackdes/0x03---OptimoAtreus)
 The keyboard layout is derived from Bépo and optimized for Arteus-format keyboards (40%), specifically designed for users of i3 and Vim.
-...
 
 ## 🚀 My Skills
 
